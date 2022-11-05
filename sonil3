@@ -1,0 +1,5 @@
+git clone https://github.com/SonilNail/sonil3.git
+
+cd sonil3
+
+python sonil3.
